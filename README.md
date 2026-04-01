@@ -6,6 +6,10 @@ Users can upload an image or capture one using the camera, and the application w
 
 🔗 Live Demo: https://tomato-sorting-system.streamlit.app/
 
+
+https://github.com/user-attachments/assets/592a24cf-484b-4971-a46e-0c113c16eaf8
+
+
 This type of automated tomato grading system helps reduce manual inspection effort and can improve efficiency in agricultural quality control pipelines. ([ResearchGate][1])
 
 [1]: https://www.researchgate.net/publication/393905299_Tomato_Maturity_Detection_and_Quality_Grading_System_Using_Deep_Learning?utm_source=chatgpt.com "Tomato Maturity Detection and Quality Grading System ..."

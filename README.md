@@ -7,7 +7,7 @@ Users can upload an image or capture one using the camera, and the application w
 🔗 Live Demo: https://tomato-sorting-system.streamlit.app/
 
 
-https://github.com/user-attachments/assets/592a24cf-484b-4971-a46e-0c113c16eaf8
+https://github.com/user-attachments/assets/347768be-79a6-4fcc-9098-1897e8d03814
 
 
 This type of automated tomato grading system helps reduce manual inspection effort and can improve efficiency in agricultural quality control pipelines. ([ResearchGate][1])

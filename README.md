@@ -4,7 +4,7 @@ This project is an AI-based tomato quality inspection system that detects tomato
 
 Users can upload an image or capture one using the camera, and the application will automatically detect tomatoes, classify their quality, and display the results with bounding boxes and labels.
 
-🔗 Live Demo: https://tomato-sorting-system.streamlit.app/
+🔗 Live Demo: https://tomato-sorting1.streamlit.app/
 
 
 https://github.com/user-attachments/assets/347768be-79a6-4fcc-9098-1897e8d03814

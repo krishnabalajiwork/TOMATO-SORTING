@@ -33,14 +33,13 @@ The system combines edge object detection with deep feature classification to ev
 
 ## 📐 Hardware & CAD Prototyping
 
-| OpenSCAD 3D Mechanical Blueprint | Physical Prototype in Action |
+| OpenSCAD 3D Mechanical Blueprint | 
 | <img width="942" height="530" alt="Screenshot 2026-07-24 223455" src="https://github.com/user-attachments/assets/a5e1e742-9d4a-482c-8adb-fce2aea14ce3" />
  | 
-
+| Physical Prototype in Action |
 https://github.com/user-attachments/assets/b5fde6d4-8eb4-4c96-a4de-ea6f900824d4
 
- |
-|  |  |
+ | 
 ---
 
 ## ⚡ Key Capabilities

@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/4654b056-0567-4e8c-bf9f-5ee971561d39
-
 # 🍅 Tomato Sorting System — AI Quality Inspection & Automated Grading
 
 [![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tomato-sorting1.streamlit.app/)
@@ -38,9 +34,13 @@ The system combines edge object detection with deep feature classification to ev
 ## 📐 Hardware & CAD Prototyping
 
 | OpenSCAD 3D Mechanical Blueprint | Physical Prototype in Action |
-| --- | https://github.com/user-attachments/assets/347768be-79a6-4fcc-9098-1897e8d03814|
+| <img width="942" height="530" alt="Screenshot 2026-07-24 223455" src="https://github.com/user-attachments/assets/a5e1e742-9d4a-482c-8adb-fce2aea14ce3" />
+ | 
+
+https://github.com/user-attachments/assets/b5fde6d4-8eb4-4c96-a4de-ea6f900824d4
+
+ |
 |  |  |
-https://github.com/user-attachments/assets/347768be-79a6-4fcc-9098-1897e8d03814
 ---
 
 ## ⚡ Key Capabilities

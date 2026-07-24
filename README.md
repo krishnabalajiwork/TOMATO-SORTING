@@ -1,6 +1,3 @@
-Here is the updated, enterprise-grade `README.md` with a dedicated **Hardware & CAD Prototyping** section placed prominently right below the architecture flow. Both the OpenSCAD 3D blueprint and the physical demo video are displayed directly side-by-side without hiding under any buttons.
-
-```markdown
 # 🍅 Tomato Sorting System — AI Quality Inspection & Automated Grading
 
 [![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tomato-sorting1.streamlit.app/)
